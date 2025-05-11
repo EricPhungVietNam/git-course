@@ -1,0 +1,15 @@
+Câu 1:
+   git init               : đưa folder vào Git quản lý
+   git add <file_name>    : chọn file cụ thể để đưa vào vùng Staging
+   git add .              : chọn tất cả file để đưa vào vùng Staging
+   git commit -m "message": snapshoot file đã chọn lưu vào Local repository.
+
+Câu 2: Folder "lession-2"
+   a: Tạo 3 file: file1, file2, file 3  => chưa có vùng nào
+   b: git init                          => vùng Working Directory
+   c: git commit -m "init project"      => vùng Repositopry
+   d: git add file1                     => vùng Staging Area
+   e. git commit -m "add file1"         => vùng Repositopry
+   f: git add file                      => vùng Staging Area
+
+   
