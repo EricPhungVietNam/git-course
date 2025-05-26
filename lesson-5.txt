@@ -1,0 +1,30 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+=> Trả lời:
+#  Các Thẻ HTML
+- Thẻ div: dùng để chia vùng trên trang web
+- Thẻ header:
+- Thẻ form: form nhập thông tin
+- Trong thẻ form chứa nhiều thẻ div
+- Thẻ textarea: ô nhập text
+- Thẻ radio button: tạo nút chọn một lựa chọn
+- Thẻ checkbox: tạo nút chọn nhiều lựa chọn cùng lúc
+- Thẻ list và dropdown: hiển thị danh dánh
+- Thẻ button: tạo nút bấm
+- thẻ table: hiển thị bảng dữ liệu
+- Thẻ slider: thanh kéo
+- Thẻ iframe: chỗ nhúng trang web khác vào trang web của mình
+
+
+2. Hãy mô tả cấu trúc html của 1 bảng (table)
+- Bảng nằm trong cặp thẻ: <table> </table>
+- Dòng: <tr> </tr>
+- Ô dữ liệu: <td></td>
+- Tiêu đề cột nằm trong cặp thẻ: <th>Tiêu đề cột</th>
+
+<table border="1">
+ <tr>
+   <td> </td>
+ </tr>
+</table>
+
+3. Push bài tập lên GitHub.
